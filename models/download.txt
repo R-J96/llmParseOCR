@@ -1,0 +1,3 @@
+Download the mistral model here: https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1
+
+or pass repo id to AutoModelFromCausalLM to have it stored in python environment
